@@ -1,4 +1,7 @@
 # Segmentation-Driver
+
+<img src="seg_driver_image.png" width="700" height="400" />
+
 Simulator for creating a semantic segmented track and then using computer vision to try and drive around it.
 
 During the self-driving race car event at Thunderhill 2019 event, our team "Team Souless" went with a semantic segmentation approach for perception and then 
